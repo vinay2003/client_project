@@ -17,21 +17,21 @@ const FindUs = () => {
           <div className="lg:col-span-2 grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="overflow-hidden rounded-lg">
               <img 
-                src="/lovable-uploads/86c7d370-4af7-4b10-93cc-5d547d6aeb26.png" 
+                src="/image/img1.png" 
                 alt="Model wearing jewelry" 
                 className="w-full h-64 object-cover transition-transform duration-500 hover:scale-110"
               />
             </div>
             <div className="overflow-hidden rounded-lg">
               <img 
-                src="/lovable-uploads/a7474309-14f0-4925-a566-78e2c597dcd6.png" 
+                src="/image/img2.png" 
                 alt="Hands with jewelry" 
                 className="w-full h-64 object-cover transition-transform duration-500 hover:scale-110"
               />
             </div>
             <div className="overflow-hidden rounded-lg">
               <img 
-                src="/lovable-uploads/1153e8d2-910b-4c93-b132-28385408cbd2.png" 
+                src="/image/img3.png" 
                 alt="Jewelry collection" 
                 className="w-full h-64 object-cover transition-transform duration-500 hover:scale-110"
               />

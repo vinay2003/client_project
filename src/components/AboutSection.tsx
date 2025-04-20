@@ -9,7 +9,7 @@ const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="/lovable-uploads/86c7d370-4af7-4b10-93cc-5d547d6aeb26.png" 
+              src="/image/img2.png" 
               alt="Model wearing Larana jewelry" 
               className="w-full h-auto rounded-lg shadow-xl"
             />
